@@ -1,0 +1,7 @@
+Snappy is compression library developed at google,
+
+--compression-codec org.apache.hadoop.io.compress.SnappyCodec
+it aims for very high speeds and resonable compression.
+Compression speed is 250MB/s and decompression speed is 500 MB/s u
+
+
